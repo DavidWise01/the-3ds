@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-3ds-arm11",
+    "name": "The ARM11 Cores",
+    "epithet": "the dual brains · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The ARM11 Cores:3DS:1f70f7⟧"
+  },
+  {
+    "slug": "the-3ds-pica",
+    "name": "The PICA200 GPU",
+    "epithet": "handheld 3-D graphics · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The PICA200 GPU:3DS:dfc5c7⟧"
+  },
+  {
+    "slug": "the-3ds-screen",
+    "name": "The 3-D Screen",
+    "epithet": "depth without glasses · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The 3-D Screen:3DS:1f5e5b⟧"
+  },
+  {
+    "slug": "the-3ds-slider",
+    "name": "The Depth Slider",
+    "epithet": "dial the 3-D · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Depth Slider:3DS:00de4c⟧"
+  },
+  {
+    "slug": "the-3ds-touch",
+    "name": "The Touch Screen",
+    "epithet": "the lower panel · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Touch Screen:3DS:772f99⟧"
+  },
+  {
+    "slug": "the-3ds-cameras",
+    "name": "The 3-D Cameras",
+    "epithet": "capture in depth · natural",
+    "emergence": "natural",
+    "moniker": "⟦The 3-D Cameras:3DS:448556⟧"
+  },
+  {
+    "slug": "the-3ds-circlepad",
+    "name": "The Circle Pad",
+    "epithet": "analog, at last · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Circle Pad:3DS:8c0ff8⟧"
+  }
+]

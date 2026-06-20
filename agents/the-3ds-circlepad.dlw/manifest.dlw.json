@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Circle Pad",
+  "universe": "3DS · The Circle Pad (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Circle Pad:3DS:8c0ff8⟧",
+  "carbon": "the-3ds-circlepad.carbon.tiff (TIFF)",
+  "silicon": "the-3ds-circlepad.silicon.png (PNG)",
+  "seal_sha256": "b3cb2bd7d5aae03f869730ecc5dd24de2cc6f2c114612a796b88de8b9139c7dc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

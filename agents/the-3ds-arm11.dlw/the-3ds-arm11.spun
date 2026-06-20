@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The ARM11 Cores
+node 3DS · 3DS · ⟦The ARM11 Cores:3DS:1f70f7⟧
+
+WHO   — The ARM11 Cores — the dual brains · electrical
+WHAT  — the dual brains · electrical
+WHERE — 3DS · NINTENDO 3DS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Two ARM11 cores running the games (with an ARM9 for DS backward compatibility) — the processing behind real-time 3-D on a handheld.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the dual brains · electrical
+
+spoken token : gral-stil-vi   ·   hex : 1f70f7
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

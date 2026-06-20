@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The PICA200 GPU
+node 3DS · 3DS · ⟦The PICA200 GPU:3DS:dfc5c7⟧
+
+WHO   — The PICA200 GPU — handheld 3-D graphics · electrical
+WHAT  — handheld 3-D graphics · electrical
+WHERE — 3DS · NINTENDO 3DS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A DMP PICA200 graphics core rendering textured, lit 3-D on both screens — the engine for the system's stereoscopic games.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  handheld 3-D graphics · electrical
+
+spoken token : graer-sux-breix   ·   hex : dfc5c7
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

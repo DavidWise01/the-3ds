@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Touch Screen",
+  "universe": "3DS · The Touch Screen (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Touch Screen:3DS:772f99⟧",
+  "carbon": "the-3ds-touch.carbon.tiff (TIFF)",
+  "silicon": "the-3ds-touch.silicon.png (PNG)",
+  "seal_sha256": "1e7383631e498c9c6b889a18807ec1bb14c9f18c0da515103078735a605b5d11",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

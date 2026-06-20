@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 3-D Cameras",
+  "universe": "3DS · The 3-D Cameras (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The 3-D Cameras:3DS:448556⟧",
+  "carbon": "the-3ds-cameras.carbon.tiff (TIFF)",
+  "silicon": "the-3ds-cameras.silicon.png (PNG)",
+  "seal_sha256": "c6ff9815fe2e0263343c3e3548841220ad789009de80b6513d6b4bba01ce8f19",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

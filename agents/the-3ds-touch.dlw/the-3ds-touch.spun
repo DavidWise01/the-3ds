@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Touch Screen
+node 3DS · 3DS · ⟦The Touch Screen:3DS:772f99⟧
+
+WHO   — The Touch Screen — the lower panel · ethereal
+WHAT  — the lower panel · ethereal
+WHERE — 3DS · NINTENDO 3DS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A resistive touch screen on the bottom, carried over from the DS — stylus and finger input beneath the 3-D display.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the lower panel · ethereal
+
+spoken token : zeirn-krok-keirn   ·   hex : 772f99
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
